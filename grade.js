@@ -1,7 +1,4 @@
 function cj(n){
-if(n>=90){
-    return '优秀';
-}
 if(n<90 && n>=80){
     return '良';
 }
@@ -18,3 +15,4 @@ if(n<60){
 var result;
 result=cj(66);
 console.log(result)
+11111
